@@ -18,7 +18,7 @@ This project explores financial risk management in the cryptocurrency market usi
 ## How to Use
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/repository-name.git
+   git clone https://github.com/AbhilashMyana-sys/Crypto_Currency_Market_Financial_Risk_Management
    ```
 2. Install dependencies:
    ```sh
