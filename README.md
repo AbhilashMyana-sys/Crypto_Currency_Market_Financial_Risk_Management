@@ -40,9 +40,10 @@ This project explores financial risk management in the cryptocurrency market usi
 - Reinforcement Learning enhances **decision-making strategies** in crypto trading.
 
 ## Contributors
-- **1.Abhilash Myana**
-- **2.Devendra Varma**
-- **3.Snehith Kamani**
+- **Abhilash Myana**
+  [GitHub Repository](https://github.com/yourusername/repository-name)
+- **Devendra Varma**
+- **Snehith Kamani**
 - Based on research by Zeinab Shahbazi & Yung-Cheol Byun
 
 ## License
