@@ -41,9 +41,11 @@ This project explores financial risk management in the cryptocurrency market usi
 
 ## Contributors
 - **Abhilash Myana**
-  [GitHub Repository](https://github.com/yourusername/repository-name)
+  [GitHub Repository](https://github.com/AbhilashMyana-sys)
 - **Devendra Varma**
+  [GitHub Repository](https://github.com/AbhilashMyana-sys)
 - **Snehith Kamani**
+  [GitHub Repository](https://github.com/AbhilashMyana-sys)
 - Based on research by Zeinab Shahbazi & Yung-Cheol Byun
 
 ## License
